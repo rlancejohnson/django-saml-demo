@@ -1,0 +1,9 @@
+# Python
+__pycache__
+
+# OSX
+.DS_Store
+._*
+
+# Certs & Keys
+*.pem
