@@ -11,4 +11,5 @@
 1. `poetry env use $(pyenv which python)`
 1. `mkcert -install`
 1. `mkcert -cert-file cert.pem -key-file key.pem localhost 127.0.0.1`
+1. `poetry shell`
 1. `./manage.py runsslserver --cert cert.pem --key key.pem`
