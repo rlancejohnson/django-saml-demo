@@ -15,3 +15,6 @@
 1. `poetry install`
 1. `./manage.py runsslserver --cert cert.pem --key key.pem`
 1. Update IDP saml settings in the get_idp_id_info and get_saml_settings functions in demo/views.py
+
+## Contributions
+This is a demo of the python3-saml package made available by OneLogin at https://github.com/onelogin/python3-saml. 
