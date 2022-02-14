@@ -6,6 +6,7 @@
 1. mkcert installed
 
 ## Setup the project
+1. Clone and cd into the repo
 1. `pyenv install 3.9.10`
 1. `poetry env use $(pyenv which python)`
 1. `mkcert -install`
