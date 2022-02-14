@@ -14,3 +14,4 @@
 1. `poetry shell`
 1. `poetry install`
 1. `./manage.py runsslserver --cert cert.pem --key key.pem`
+1. Update IDP saml settings in the get_saml_settings function in demo/views.py 
